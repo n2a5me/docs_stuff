@@ -1,0 +1,6 @@
+
+FACEBOOK USER DATA DELETION.
+- All user data will be deleted by following steps:
+1. Login with facebook/gmail/appleid (for ios)
+2. Open application, navigate to forth tab named Account / Tài Khoản.
+3. Click Logout / Đăng xuất -> Confirm.
