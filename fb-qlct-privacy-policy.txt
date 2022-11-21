@@ -44,6 +44,13 @@ Security
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
+WHAT DATA IS BEING COLLECTED:
+The application itself doesn't collect any user information or user device information. The third party sdks of appliaction which appliaction integrates only collect properly common information like device name, device os, crash logs. They are Facebook Audience Network, Google Admob.
+HOW THE DATA IS BEING USED:
+The third party sdks only use common information for display ads properly to target users which make user experiance just great.
+HOW THE USER MAY REQUEST TO DELETE THEIR DATA:
+There is a setting DELETE Advertising ID from device settings. If select delete advertising ID, apps (or my applicaton) can no longer use this advertising ID to show personalized ads.
+
 FACEBOOK USER DATA DELETION:
 - All user data will be deleted by following steps:
 1. Login with facebook/gmail/appleID (for ios)
