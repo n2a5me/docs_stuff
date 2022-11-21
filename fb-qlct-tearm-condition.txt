@@ -25,6 +25,13 @@ With respect to HApplications’s responsibility for your use of the app, when y
 
 At some point, we may wish to update the app. The app is currently available on Android – the requirements for the system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. HApplications does not promise that it will always update the app so that it is relevant to you and/or works with the Android version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
+WHAT DATA IS BEING COLLECTED:
+The application itself doesn't collect any user information or user device information. The third party sdks of appliaction which appliaction integrates only collect properly common information like device name, device os, crash logs. They are Facebook Audience Network, Google Admob.
+HOW THE DATA IS BEING USED:
+The third party sdks only use common information for display ads properly to target users which make user experiance just great.
+HOW THE USER MAY REQUEST TO DELETE THEIR DATA:
+There is a setting DELETE Advertising ID from device settings. If select delete advertising ID, apps (or my applicaton) can no longer use this advertising ID to show personalized ads.
+
 FACEBOOK USER DATA DELETION:
 - All user data will be deleted by following steps:
 1. Login with facebook/gmail/appleID (for ios)
