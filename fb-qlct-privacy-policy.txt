@@ -51,11 +51,11 @@ The third party sdks only use common information for display ads properly to tar
 HOW THE USER MAY REQUEST TO DELETE THEIR DATA:
 There is a setting DELETE Advertising ID from device settings. If select delete advertising ID, apps (or my applicaton) can no longer use this advertising ID to show personalized ads.
 
-FACEBOOK USER DATA DELETION:
+USER DATA DELETION:
 - All user data will be deleted by following steps:
 1. Login with facebook/gmail/appleID (for ios)
 2. Open application, navigate to forth tab named Account / Tài Khoản.
-3. Click Logout / Đăng xuất -> Confirm.
+3. Click last button "Xóa tất cả dữ liệu" -> Type "DONG Y" -> "XÓA/Delete".
 
 Changes to This Privacy Policy
 
